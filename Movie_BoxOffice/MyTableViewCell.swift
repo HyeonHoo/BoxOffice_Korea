@@ -10,11 +10,13 @@ import UIKit
 
 class MyTableViewCell: UITableViewCell {
 
-    @IBOutlet weak var MovieAcc: UILabel!
-    @IBOutlet weak var MovieRt: UILabel!
+    @IBOutlet weak var Movie_btn: UIButton!
+    @IBOutlet weak var MovieRank: UILabel!
+    @IBOutlet weak var MovieSacc: UILabel!
     @IBOutlet weak var OpenDt: UILabel!
     @IBOutlet weak var Moviename: UILabel!
-    @IBOutlet weak var MovieImg: UIImageView!
+    @IBOutlet weak var MovieCnt: UILabel!
+    @IBOutlet weak var MovieAcc: UILabel!
     override func awakeFromNib() {
         super.awakeFromNib()
         // Initialization code
