@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		4E71AE4A2A2A3EFD006040D7 /* Movie.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E71AE492A2A3EFD006040D7 /* Movie.swift */; };
 		4E8E97CD2A29D938000DB730 /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E8E97CC2A29D938000DB730 /* MapViewController.swift */; };
 		4E8E97CF2A29D970000DB730 /* ReserViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E8E97CE2A29D970000DB730 /* ReserViewController.swift */; };
 		4E9504512A250B220077132C /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E9504502A250B220077132C /* DetailViewController.swift */; };
@@ -23,7 +22,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		4E71AE492A2A3EFD006040D7 /* Movie.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Movie.swift; sourceTree = "<group>"; };
 		4E8E97CC2A29D938000DB730 /* MapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
 		4E8E97CE2A29D970000DB730 /* ReserViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReserViewController.swift; sourceTree = "<group>"; };
 		4E9504502A250B220077132C /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
@@ -94,7 +92,6 @@
 				4EA0ECDA2A19F63C0088F987 /* Assets.xcassets */,
 				4EA0ECDC2A19F63C0088F987 /* LaunchScreen.storyboard */,
 				4EA0ECDF2A19F63C0088F987 /* Info.plist */,
-				4E71AE492A2A3EFD006040D7 /* Movie.swift */,
 			);
 			path = Movie_BoxOffice;
 			sourceTree = "<group>";
@@ -235,7 +232,6 @@
 				4E8E97CF2A29D970000DB730 /* ReserViewController.swift in Sources */,
 				4E9504512A250B220077132C /* DetailViewController.swift in Sources */,
 				4EA0ECD22A19F63C0088F987 /* AppDelegate.swift in Sources */,
-				4E71AE4A2A2A3EFD006040D7 /* Movie.swift in Sources */,
 				4EA0ECD42A19F63C0088F987 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
